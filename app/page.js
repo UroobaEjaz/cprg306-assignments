@@ -17,7 +17,7 @@ export default function Home() {
           <Link href='./week-4'>week 4</Link>
         </li>
         <li className="mb-2 p-1 text-xl">
-          week 5
+          <Link href='./week-5'>week 5</Link>
         </li>
         <li className="mb-2 p-1 text-xl">
           week 6

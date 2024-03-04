@@ -1,4 +1,4 @@
-// /app/week-6/item-list.js
+// /app/week-6/item-list.js / again using the same code as week-5
 import React, { useState } from 'react';
 import Item from './item';
 

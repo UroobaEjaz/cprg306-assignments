@@ -3,7 +3,7 @@
 
 
 
-import ItemList from './item-list';
+import ItemList from './item-list.jsx';
 
 import Link from 'next/link';
 

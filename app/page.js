@@ -5,7 +5,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <main className="mb-4 p-3 my-4 bg-black text-white min-h-screen ">
-      <h1 className="mb-4 text-4xl">CPRG 306: Web Development 2 - Assignments</h1>
+      <h1 className="mb-4 text-4xl p-4">CPRG 306: Web Development 2 - Assignments</h1>
       <ul className="list-none">
         <li className="mb-2 p-1 text-xl ">
           <Link href='./week-2'>Week 2</Link>
@@ -24,6 +24,9 @@ export default function Home() {
         </li>
         <li className="mb-2 p-1 text-xl">
           <Link href='./week-7'>week 7</Link>
+        </li>
+        <li className="mb-2 p-1 text-xl">
+          <Link href='./week-8'>week 8</Link> 
         </li>
   
       </ul>
